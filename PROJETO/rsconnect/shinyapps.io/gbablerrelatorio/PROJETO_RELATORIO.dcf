@@ -1,0 +1,12 @@
+name: PROJETO_RELATORIO
+title: PROJETO_RELATORIO
+username: gbablerrelatorio
+account: gbablerrelatorio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10167928
+bundleId: 7792739
+url: https://gbablerrelatorio.shinyapps.io/PROJETO_RELATORIO/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
